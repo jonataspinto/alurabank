@@ -1,0 +1,24 @@
+{
+  "name": "alurabank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compiler": "tsc",
+    "start": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonataspinto/alurabank.git"
+  },
+  "author": "jonatas pinto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonataspinto/alurabank/issues"
+  },
+  "homepage": "https://github.com/jonataspinto/alurabank#readme",
+  "devDependencies": {
+    "typescript": "^2.3.2"
+  }
+}
